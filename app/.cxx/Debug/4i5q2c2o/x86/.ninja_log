@@ -1,0 +1,11 @@
+# ninja log v5
+0	14	0	clean	6780bf822a87c462
+4	469	1682740662575931828	CMakeFiles/EncryptionDecryption.dir/EncryptionDecryption.c.o	5a6679e85d7beb3a
+470	633	1682740662740092269	/Users/macbookpro/Desktop/UmerWork/revos_chat-app/app/build/intermediates/cxx/Debug/4i5q2c2o/obj/x86/libEncryptionDecryption.so	69f36bc74328db22
+3	87	1682831279460903437	build.ninja	3d5019a9543418cb
+1	549	1682740662658842986	CMakeFiles/revoschat.dir/revoschat.cpp.o	409ae25d15528e38
+550	672	1682740662780536404	/Users/macbookpro/Desktop/UmerWork/revos_chat-app/app/build/intermediates/cxx/Debug/4i5q2c2o/obj/x86/librevoschat.so	691ba5ce622e06e
+1	204	1682831279722197692	CMakeFiles/revoschat.dir/revoschat.cpp.o	409ae25d15528e38
+2	227	1682831279745033520	CMakeFiles/EncryptionDecryption.dir/EncryptionDecryption.c.o	5a6679e85d7beb3a
+204	340	1682831279860610349	/Users/macbookpro/Desktop/UmerWork/revos_chat-app/app/build/intermediates/cxx/Debug/4i5q2c2o/obj/x86/librevoschat.so	691ba5ce622e06e
+227	340	1682831279860646181	/Users/macbookpro/Desktop/UmerWork/revos_chat-app/app/build/intermediates/cxx/Debug/4i5q2c2o/obj/x86/libEncryptionDecryption.so	69f36bc74328db22

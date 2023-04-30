@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/macbookpro/Desktop/UmerWork/IS project/app/.cxx/Debug/3e49496i/arm64-v8a'
+ninja: no work to do.

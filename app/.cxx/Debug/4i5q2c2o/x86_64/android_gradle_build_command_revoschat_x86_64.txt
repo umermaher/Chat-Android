@@ -1,0 +1,7 @@
+Executable : /Users/macbookpro/Library/Android/sdk/cmake/3.22.1/bin/ninja
+arguments : 
+-C
+/Users/macbookpro/Desktop/UmerWork/revos_chat-app/app/.cxx/Debug/4i5q2c2o/x86_64
+revoschat
+jvmArgs : 
+

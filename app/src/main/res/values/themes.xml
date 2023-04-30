@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.RevosChat" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/theme_color</item>
+        <item name="fontFamily">@font/avenirltstd_roman</item>
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.Theme.MyApp.MaterialAlertDialog</item>
+    </style>
+
+
+    <style name="ThemeOverlay.Theme.MyApp.MaterialAlertDialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="colorPrimary">@color/theme_color</item>
+        <item name="colorSecondary">@color/theme_color</item>
+        <!--        <item name="backgroundTint">@color/btn_blue</item>-->
+        <item name="android:background">@color/white</item>
+        <item name="alertDialogStyle">@style/MaterialAlertDialog.Theme.MyApp</item>
+        <item name="android:singleLine">false</item>
+        <item name="maxLines">30</item>
+        <item name="materialAlertDialogTitleTextStyle">
+            @style/MaterialAlertDialog.Theme.MyApp.Title.Text
+        </item>
+        <item name="materialAlertDialogBodyTextStyle">
+            @style/MaterialAlertDialog.Theme.MyApp.text
+        </item>
+    </style>
+
+    <style name="MaterialAlertDialog.Theme.MyApp" parent="MaterialAlertDialog.MaterialComponents">
+        <item name="shapeAppearance">@style/ShapeAppearance.App.MediumComponent</item>
+    </style>
+    <style name="MaterialAlertDialog.Theme.MyApp.Title.Text" parent="MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/avenirltstd_roman</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:maxLines">10</item>
+        <item name="android:letterSpacing">0.04</item>
+        <!--        <item name="android:scrollHorizontally">true</item>-->
+    </style>
+
+    <style name="MaterialAlertDialog.Theme.MyApp.text" parent="MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textColor">@color/text_paragraph</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:maxLines">50</item>
+        <item name="fontFamily">@font/avenirltstd_roman</item>
+        <item name="android:singleLine">false</item>
+        <item name="singleLine">false</item>
+        <item name="android:letterSpacing">0.04</item>
+    </style>
+
+    <style name="ShapeAppearance.App.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="maxLines">30</item>
+        <item name="cornerSize">10dp</item>
+        <item name="fontFamily">@font/avenirltstd_roman</item>
+    </style>
+
+</resources>

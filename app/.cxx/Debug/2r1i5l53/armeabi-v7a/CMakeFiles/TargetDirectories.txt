@@ -1,0 +1,4 @@
+/Users/macbookpro/Desktop/UmerWork/uni work/IS project/app/.cxx/Debug/2r1i5l53/armeabi-v7a/CMakeFiles/revoschat.dir
+/Users/macbookpro/Desktop/UmerWork/uni work/IS project/app/.cxx/Debug/2r1i5l53/armeabi-v7a/CMakeFiles/EncryptionDecryption.dir
+/Users/macbookpro/Desktop/UmerWork/uni work/IS project/app/.cxx/Debug/2r1i5l53/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Desktop/UmerWork/uni work/IS project/app/.cxx/Debug/2r1i5l53/armeabi-v7a/CMakeFiles/rebuild_cache.dir

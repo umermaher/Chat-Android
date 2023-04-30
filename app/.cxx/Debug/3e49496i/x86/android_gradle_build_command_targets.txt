@@ -1,0 +1,8 @@
+Executable : /Users/macbookpro/Library/Android/sdk/cmake/3.22.1/bin/ninja
+arguments : 
+-C
+/Users/macbookpro/Desktop/UmerWork/IS project/app/.cxx/Debug/3e49496i/x86
+EncryptionDecryption
+revoschat
+jvmArgs : 
+

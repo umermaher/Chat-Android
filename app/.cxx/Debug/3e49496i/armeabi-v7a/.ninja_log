@@ -1,0 +1,5 @@
+# ninja log v5
+0	250	1682832675114413093	CMakeFiles/revoschat.dir/revoschat.cpp.o	f186357280d4102a
+1	269	1682832675130582713	CMakeFiles/EncryptionDecryption.dir/EncryptionDecryption.c.o	ddb91b59fb09ba94
+251	364	1682832675232692610	/Users/macbookpro/Desktop/UmerWork/IS project/app/build/intermediates/cxx/Debug/3e49496i/obj/armeabi-v7a/librevoschat.so	4c5793b8271e2e97
+270	382	1682832675249221093	/Users/macbookpro/Desktop/UmerWork/IS project/app/build/intermediates/cxx/Debug/3e49496i/obj/armeabi-v7a/libEncryptionDecryption.so	990cd5417098f6f8

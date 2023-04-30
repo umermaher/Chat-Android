@@ -1,0 +1,4 @@
+/Users/macbookpro/Desktop/UmerWork/revos_chat-app/app/.cxx/Debug/4i5q2c2o/armeabi-v7a/CMakeFiles/revoschat.dir
+/Users/macbookpro/Desktop/UmerWork/revos_chat-app/app/.cxx/Debug/4i5q2c2o/armeabi-v7a/CMakeFiles/EncryptionDecryption.dir
+/Users/macbookpro/Desktop/UmerWork/revos_chat-app/app/.cxx/Debug/4i5q2c2o/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Desktop/UmerWork/revos_chat-app/app/.cxx/Debug/4i5q2c2o/armeabi-v7a/CMakeFiles/rebuild_cache.dir
