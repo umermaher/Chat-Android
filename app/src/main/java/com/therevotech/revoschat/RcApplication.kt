@@ -5,4 +5,6 @@ import dagger.hilt.android.HiltAndroidApp
 import dagger.hilt.android.qualifiers.ApplicationContext
 
 @HiltAndroidApp
-class RcApplication: Application()
+class RcApplication: Application(){
+
+}
