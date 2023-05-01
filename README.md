@@ -11,6 +11,9 @@ IS project
 * encryption-decryption of shared preferences
 * restrict api key
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/93570267/235429451-5edd4f07-70aa-4902-bdaf-0eb12b048d31.gif)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/93570267/235429518-8aefaf7c-aa84-40aa-845d-ceeb72b8dd25.gif)
+
 ![Screenshot_20230425-230341_RevosChat](https://user-images.githubusercontent.com/93570267/235339043-4861e17d-523f-484d-922e-c993d79f405a.jpg)
 ![Screenshot_20230425-223605_RevosChat](https://user-images.githubusercontent.com/93570267/235339041-fe339ee7-beaa-4621-83e1-a08f8d0a1bd0.jpg)
 ![Screenshot_20230425-223608_RevosChat](https://user-images.githubusercontent.com/93570267/235339042-1c8ad156-cc6e-4bd4-acb0-2acc7258c399.jpg)
