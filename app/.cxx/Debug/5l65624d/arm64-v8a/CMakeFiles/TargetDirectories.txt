@@ -1,4 +1,0 @@
-/Users/macbookpro/Desktop/UmerWork/IS project2/app/.cxx/Debug/5l65624d/arm64-v8a/CMakeFiles/revoschat.dir
-/Users/macbookpro/Desktop/UmerWork/IS project2/app/.cxx/Debug/5l65624d/arm64-v8a/CMakeFiles/EncryptionDecryption.dir
-/Users/macbookpro/Desktop/UmerWork/IS project2/app/.cxx/Debug/5l65624d/arm64-v8a/CMakeFiles/edit_cache.dir
-/Users/macbookpro/Desktop/UmerWork/IS project2/app/.cxx/Debug/5l65624d/arm64-v8a/CMakeFiles/rebuild_cache.dir

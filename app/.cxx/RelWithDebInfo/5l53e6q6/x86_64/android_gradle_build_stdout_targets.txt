@@ -1,2 +1,0 @@
-ninja: Entering directory `/Users/macbookpro/Desktop/UmerWork/revos_chat-app/app/.cxx/RelWithDebInfo/5l53e6q6/x86_64'
-ninja: no work to do.
