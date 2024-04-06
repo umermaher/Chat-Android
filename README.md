@@ -11,6 +11,10 @@ This project is a custom chat Android application.
 * secure API Key using JNI and NDK(Just usage demonstration)
 * encryption-decryption of shared preferences
 * restrict api key
+
+![Chat Screen](https://user-images.githubusercontent.com/93570267/235429451-5edd4f07-70aa-4902-bdaf-0eb12b048d31.gif){:width="400px"}
+![Login Screen](https://user-images.githubusercontent.com/93570267/235429518-8aefaf7c-aa84-40aa-845d-ceeb72b8dd25.gif){:width="400px"}
+  
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/93570267/235429451-5edd4f07-70aa-4902-bdaf-0eb12b048d31.gif)
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/93570267/235429518-8aefaf7c-aa84-40aa-845d-ceeb72b8dd25.gif)
 
