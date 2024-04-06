@@ -14,18 +14,4 @@ Checkout the backend in Kotlin: [Backend Repository](https://github.com/umermahe
 * encryption-decryption of shared preferences
 * restrict api key
 
-<style>
-    .image-container {
-        display: inline-block;
-        margin-right: 20px; 
-    }
-</style>
-
-<div class="image-container">
-    <img src="https://user-images.githubusercontent.com/93570267/235429451-5edd4f07-70aa-4902-bdaf-0eb12b048d31.gif" width="250" height="550">
-</div>
-<div class="image-container">
-    <img src="https://user-images.githubusercontent.com/93570267/235429518-8aefaf7c-aa84-40aa-845d-ceeb72b8dd25.gif" width="250" height="550">
-</div>
-
-<img src="https://user-images.githubusercontent.com/93570267/235429451-5edd4f07-70aa-4902-bdaf-0eb12b048d31.gif" width="250" height="550" style="margin-right: 30px;"/><img src="https://user-images.githubusercontent.com/93570267/235429518-8aefaf7c-aa84-40aa-845d-ceeb72b8dd25.gif" width="250" height="550"/>
+<img src="https://user-images.githubusercontent.com/93570267/235429451-5edd4f07-70aa-4902-bdaf-0eb12b048d31.gif" width="250" height="550" style="padding-right: 30px;"/><img src="https://user-images.githubusercontent.com/93570267/235429518-8aefaf7c-aa84-40aa-845d-ceeb72b8dd25.gif" width="250" height="550"/>
