@@ -15,4 +15,4 @@ This project is a custom chat Android application.
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/93570267/235429518-8aefaf7c-aa84-40aa-845d-ceeb72b8dd25.gif)
 
 ## Backend Repository
-The backend of this application is developed in Kotlin and can be found in the following repository: [Backend Repository](https://github.com/umermaher/revos-chat-ktor_backend)
+Checkout the backend in Kotlin: [Backend Repository](https://github.com/umermaher/revos-chat-ktor_backend)
